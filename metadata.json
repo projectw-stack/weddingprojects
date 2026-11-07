@@ -1,0 +1,6 @@
+{
+  "name": "Undangan Akad Nikah: Putri & Dify",
+  "description": "Website Undangan Pernikahan (Akad Nikah) bertema Vintage & Klasik Elegan untuk Wahyu Dia Putri dan Dify Maulana Rizky.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
